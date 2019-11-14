@@ -22,7 +22,7 @@
 
             {
               type: 'image',
-              size: 20,
+              size: 25,
               url: 'https://skypanel1.s3-eu-west-1.amazonaws.com/media_files/5cf6d33701062_Steve-Smiling.png',
               dropRate: 8
             },
