@@ -36,13 +36,13 @@
           particles: [
             {
               type: 'image',
-              size: 20,
+              size: 25,
               url: 'https://s3.eu-west-2.amazonaws.com/web-assets-1.skypark.dev/images/thumb-2.png',
               dropRate: 8
             },
             {
               type: 'image',
-              size: 20,
+              size: 25,
               url: 'https://s3.eu-west-2.amazonaws.com/web-assets-1.skypark.dev/images/P-Plane-Sign.png',
               dropRate: 8
             }
