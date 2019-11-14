@@ -35,11 +35,14 @@
         this.$confetti.start({
           particles: [
             {
-              type: 'circle'
+              type: 'image',
+              size: 30,
+              url: 'https://s3.eu-west-2.amazonaws.com/web-assets-1.skypark.dev/images/Orange-Thumbs-Up.png',
+              dropRate: 8
             },
             {
               type: 'image',
-              size: 20,
+              size: 30,
               url: 'https://s3.eu-west-2.amazonaws.com/web-assets-1.skypark.dev/images/Parking-Only-Sign-PNG-Free-Image.png',
               dropRate: 8
             }
