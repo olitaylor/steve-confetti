@@ -1,9 +1,10 @@
 <template>
   <main>
-    <button @click="startSteve">Start stevefetti</button>
-    <button @click="start">Start confetti</button>
-    <button @click="startParking">Start parking</button>
-    <button @click="stop">Stop</button>
+    <button @click="startSteve">Stevefetti</button>
+    <button @click="start">Justfetti</button>
+    <button @click="startParking">Parkfetti</button>
+
+    -------- <button @click="stop">Stop</button>
   </main>
 </template>
 
@@ -26,7 +27,10 @@
               dropRate: 8
             },
             {
-              type: 'circle'
+              type: 'image',
+              size: 25,
+              url: 'https://s3.eu-west-2.amazonaws.com/web-assets-1.skypark.dev/images/thumb-2.png',
+              dropRate: 8
             },
           ]
         });
