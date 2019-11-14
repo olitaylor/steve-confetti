@@ -37,13 +37,13 @@
             {
               type: 'image',
               size: 30,
-              url: 'https://s3.eu-west-2.amazonaws.com/web-assets-1.skypark.dev/images/Orange-Thumbs-Up.png',
+              url: 'https://s3.eu-west-2.amazonaws.com/web-assets-1.skypark.dev/images/thumb-2.png',
               dropRate: 8
             },
             {
               type: 'image',
               size: 30,
-              url: 'https://s3.eu-west-2.amazonaws.com/web-assets-1.skypark.dev/images/Parking-Only-Sign-PNG-Free-Image.png',
+              url: 'https://s3.eu-west-2.amazonaws.com/web-assets-1.skypark.dev/images/P-Plane-Sign.png',
               dropRate: 8
             }
           ],
